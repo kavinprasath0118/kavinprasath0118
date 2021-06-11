@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KavinprasathSrinivasan
+- 👋 Hi, I’m @Kavinprasath Srinivasan
 - 👀 I’m interested in C, Java, SQL, Python
 - 🌱 I’m currently learning C, Java
 - 💞️ I’m looking to collaborate on ...
